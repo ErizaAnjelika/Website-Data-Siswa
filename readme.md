@@ -9,7 +9,7 @@
 # Deskripsi Project 
 Halaman website yang digunakan untuk mendata siswa. Website ini dapat melakukan tambah data siswa, edit data siswa, dan hapus data siswa. Teknologi yang terdapat didalamnya adalah html, php, framework codeigniter, AdminLTE sebagai template, dan database menggunakan XAMPP.
 # Link YOutube Project Saya
-[Youtube]([https://github.com](https://youtu.be/Wpp4J2z0eqs?si=K_XGnQocul-N_uMq))
+[Youtube](https://youtu.be/Wpp4J2z0eqs?si=K_XGnQocul-N_uMq)
 # Fitur yang terdapat di website ini:
 1. Halaman Login
    ![Halaman Login](https://github.com/ErizaAnjelika/Website-Data-Siswa/assets/139231295/9d1ad641-da38-42e7-b1da-2cf60cf91df6)
